@@ -11,21 +11,27 @@ This section is all about myself. These are questions that I can publicly displa
 ### Questions: 
 
 - How did you hear about hopscotch? 
+<br>
 My teacher showed me the hopscotch app. I was reintroduced last year after a long break.
 
 - What is your favorite project to play/code? 
+<br>
 Any project that I can actually enjoy playing myself, otherwise, I would choose miscellaneous Pixel Art.
 
 - Why are you obsessed with Raccoon? 
+<br>
 I think that Raccoon is a character with a lot of potential. I think that he is awesome, and deserves a chance in the light.
 
 - How do you get good at coding? 
+<br>
 There is no such thing as good coding. There are only people who are dedicated. To become dedicated, you need practice and time.
 
 - What is your favorite part about coding? 
+<br>
 The infinite possibilites about what you can code. One object can create a whole game. Who knows about many objects?
 
 - Favorite project of yours? 
+<br>
 [Space Rocket's, by TheCMStudios](https://c.gethopscotch.com/p/11by7g5f4b) (Currently undergoing mantainence)
 
 
