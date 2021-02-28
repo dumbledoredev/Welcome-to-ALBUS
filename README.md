@@ -4,11 +4,11 @@ This is the website addition to my  [hopscotch account](https://awesome-e.github
 
 This is the real Albus_Dumbledore from hopscotch. Make sure to not confuse this site with any other's or impostor's.
 
-### About Me
+## About Me
 
 This section is all about myself. These are questions that I can publicly display answer's to.
 
-# Questions: 
+### Questions: 
 
 - How old are you?
 I am 12 year's old.
