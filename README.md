@@ -29,10 +29,10 @@ There is no such thing as good coding. There are only people who are dedicated. 
 The infinite possibilites about what you can code. One object can create a whole game. Who knows about many objects?
 
 - Favorite project of yours?
-[Space Rocket's, by TheCMStudios] (https://c.gethopscotch.com/p/11by7g5f4b) (Currently undergoing mantainence)
+[Space Rocket's, by TheCMStudios](https://c.gethopscotch.com/p/11by7g5f4b) (Currently undergoing mantainence)
 
 
-For more information about me, visit [The Hopscotch Forum} (https://forum.gethopscotch.com/)
+For more information about me, visit [The Hopscotch Forum](https://forum.gethopscotch.com/)
 
 ### Jekyll Themes
 
