@@ -10,9 +10,6 @@ This section is all about myself. These are questions that I can publicly displa
 
 ### Questions: 
 
-- How old are you?
-I am 12 year's old.
-
 - How did you hear about hopscotch?
 My teacher showed me the hopscotch app. I was reintroduced last year after a long break.
 
