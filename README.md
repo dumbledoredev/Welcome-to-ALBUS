@@ -1,32 +1,38 @@
 ## Hello there.
 
-You can use the [editor on GitHub](https://github.com/dumbledoredev/Welcome-to-ALBUS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the website addition to my  [hopscotch account](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5zmt7t-1kww_78-48iftsoruk_3jsvat8rld_2wya8p2!1pwl!2rrvu6iagp_264f&channel=Published) where I can post trailers and introduce myself a bit better.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the real Albus_Dumbledore from hopscotch. Make sure to not confuse this site with any other's or impostor's.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This section is all about myself. These are questions that I can publicly display answer's to.
 
-```markdown
-Syntax highlighted code block
+# Questions: 
 
-# Header 1
-## Header 2
-### Header 3
+- How old are you?
+I am 12 year's old.
 
-- Bulleted
-- List
+- How did you hear about hopscotch?
+My teacher showed me the hopscotch app. I was reintroduced last year after a long break.
 
-1. Numbered
-2. List
+- What is your favorite project to play/code
+Any project that I can actually enjoy playing myself, otherwise, I would choose miscellaneous Pixel Art.
 
-**Bold** and _Italic_ and `Code` text
+- Why are you obsessed with Raccoon?
+I think that Raccoon is a character with a lot of potential. I think that he is awesome, and deserves a chance in the light.
 
-[Link](url) and ![Image](src)
-```
+- How do you get good at coding?
+There is no such thing as good coding. There are only people who are dedicated. To become dedicated, you need practice and time.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- What is your favorite part about coding?
+The infinite possibilites about what you can code. One object can create a whole game. Who knows about many objects?
+
+- Favorite project of yours?
+[Space Rocket's, by TheCMStudios] (https://c.gethopscotch.com/p/11by7g5f4b) (Currently undergoing mantainence)
+
+
+For more information about me, visit [The Hopscotch Forum} (https://forum.gethopscotch.com/)
 
 ### Jekyll Themes
 
