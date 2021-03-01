@@ -33,7 +33,7 @@ The infinite possibilites about what you can code. One object can create a whole
 
 - Favorite project of yours? 
 <br>
-[Space Rocket's, by TheCMStudios](https://c.gethopscotch.com/p/11by7g5f4b) (Currently undergoing mantainence)
+https://c.gethopscotch.com/p/11by7g5f4b, Currently undergoing mantainence
 
 
 For more information about me, visit [The Hopscotch Forum](https://forum.gethopscotch.com/)
