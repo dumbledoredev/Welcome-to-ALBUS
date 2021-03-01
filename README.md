@@ -1,4 +1,4 @@
-span style="color:white"> 
+
 This is the website addition to my  [hopscotch account](https://awesome-e.github.io/hs-tools/explore-channel/user.html?u=5zmt7t-1kww_78-48iftsoruk_3jsvat8rld_2wya8p2!1pwl!2rrvu6iagp_264f&channel=Published) where I can post trailers and introduce myself a bit better.
 
 This is the real Albus_Dumbledore from hopscotch. Make sure to not confuse this site with any other's or impostor's.
@@ -35,7 +35,7 @@ https://c.gethopscotch.com/p/11by7g5f4b, Currently undergoing mantainence
 
 
 For more information about me, visit [The Hopscotch Forum](https://forum.gethopscotch.com/)
-</span>
+
 
 
 
